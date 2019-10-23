@@ -1,0 +1,25 @@
+body
+  {color: blue;
+  text-align: right;
+  font-family: "Open Sans";}
+
+h1
+  {color: pink;
+  text-align: center;
+  font-family: "arial";
+  font-style: normal;
+  font-size: 40}
+
+th
+  {color: teal;
+  text-align: center;
+  font-family: "arial";
+  font-style: normal;
+  font-size: 20}
+
+td
+  {color: brown;
+  text-align: center;
+  font-family: "arial";
+  font-style: normal;
+  font-size: 20}

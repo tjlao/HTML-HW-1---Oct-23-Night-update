@@ -1,0 +1,41 @@
+body
+  {color: black;
+  text-align: center;
+  align: center;
+  font-family: "Open Sans";}
+
+table
+  {color: black;
+  align-content: center;
+  text-align: center;
+  font-family: "Open Sans";}
+
+h1
+  {color: pink;
+  text-align: center;
+  font-family: "Futura";
+  font-style: normal;
+  font-size: 40}
+
+tr
+  {color: teal;
+  text-align: center;
+  font-family: "montserrat";
+  font-style: normal;
+  font-size: 20
+  height: 50px;
+  width: 200px;}
+
+th
+  {color: teal;
+  text-align: center;
+  font-family: "montserrat";
+  font-style: normal;
+  font-size: 20}
+
+td
+  {color: brown;
+  text-align: center;
+  font-family: "times new roman";
+  font-style: normal;
+  font-size: 20}
